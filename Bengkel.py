@@ -24,13 +24,13 @@ class Bengkel:
 
     def tambah_motor(self, motor):
         self.daftar_motor[motor.info_motor['merek']] = motor
-        os.system("cls")
         print("Motor", motor.info_motor['merek'], "telah ditambahkan.")
+
 
     def lihat_motor(self):
         if self.daftar_motor:
             print("Daftar Motor:")
-            table = PrettyTable(["Merek", "Tahun Pembuatan", "CC Motor", "Kondisi", "Terakhir Servis"])
+            table = PrettyTable(["Merek", "Tahun Pembuatan", "CC Motor", "Kondisi", "Terakhir Servis(bulan)"])
             for motor in self.daftar_motor.values():
                 info = motor.info_motor
                 table.add_row([info['merek'], info['tahun_pembuatan'], info['cc_motor'], info['kondisi'], info['terakhir_servis']])
@@ -68,9 +68,9 @@ def main():
     os.system("cls")
     bengkel = Bengkel()
 
+    print("             SELAMAT DATANG DI BENGKEL PAIN MOTOR             ")   
+    print("   Menyediakan jasa servis motor, ganti sparepart motor, dll   ")
     while True:
-        print("             SELAMAT DATANG DI BENGKEL PAIN MOTOR             ")   
-        print("   Menyediakan jasa servis motor, ganti sparepart motor, dll   ")
         print("\nPilih Opsi yang Ingin Dilakukan:")
         print("1. Tambah Motor")
         print("2. Lihat Motor")
@@ -88,7 +88,7 @@ def main():
                     tahun_pembuatan = int(input("Masukkan tahun pembuatan motor: "))
                     cc_motor = int(input("Masukkan CC motor: "))
                     kondisi = input("Bagaimana kondisi motor? [perlu perbaikan/ganti sparepart(modif)]: ")
-                    terakhir_servis = float(input("Kapan terakhir kali motor di servis? (perkiraan saja dalam bulan, 1/2/3): "))
+                    terakhir_servis = int(input("Kapan terakhir kali motor di servis? (perkiraan saja dalam bulan, 1/2/3): "))
                     break
                 except ValueError:
                     print("\nTipe data yang dimasukkan tidak sesuai, perhatikan apakah angka atau huruf.") 
