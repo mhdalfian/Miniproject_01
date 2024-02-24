@@ -1,7 +1,26 @@
-![Screenshot 2024-02-24 114214](https://github.com/mhdalfian/Miniproject_01/assets/144761136/d3274cea-7df1-4589-bd9e-1802def2eaf7)
-![Screenshot 2024-02-24 114156](https://github.com/mhdalfian/Miniproject_01/assets/144761136/31abf366-1a4e-454e-8725-fba988097554)
-![Screenshot 2024-02-24 114128](https://github.com/mhdalfian/Miniproject_01/assets/144761136/0ed8451c-df3c-4333-a6de-5f9fbe65a5e4)
-![Screenshot 2024-02-24 114003](https://github.com/mhdalfian/Miniproject_01/assets/144761136/7120b8cd-e6e5-47ad-aa6d-72095821794a)
-![Screenshot 2024-02-24 113944](https://github.com/mhdalfian/Miniproject_01/assets/144761136/3c62e603-5eb6-439d-889e-554746fc1c54)
-![Screenshot 2024-02-24 112718](https://github.com/mhdalfian/Miniproject_01/assets/144761136/ab43e238-fbdb-452c-a361-aea7b7b1e63b)
-![Screenshot 2024-02-24 114222](https://github.com/mhdalfian/Miniproject_01/assets/144761136/3839871f-2954-4510-9ca9-162d9cae7a14)
+NAMA: MUHAMMAD ALFIAN ADIEN
+NIM: 2309116034
+KELAS: SISTEM INFORMASI A'23
+
+OUTPUT MENU UTAMA SAAT USER AWAL MENJALANKAN PROGRAM
+![Screenshot 2024-02-24 112718](https://github.com/mhdalfian/Miniproject_01/assets/144761136/e0cee9ed-b71b-4c4e-995b-7e05c3213d8e)
+
+OUTPUT SAAT USER INGIN MENAMBAHKAN PRODUK
+![Screenshot 2024-02-24 113944](https://github.com/mhdalfian/Miniproject_01/assets/144761136/88f38692-8076-47c9-9e81-adc331e0ae06)
+
+OUTPUT PADA SAAT USER INGIN LIHAT PRODUK TAPI PRODUK BELUM ADA DI DAFTAR
+![Screenshot 2024-02-24 114214](https://github.com/mhdalfian/Miniproject_01/assets/144761136/019fe3d1-c196-43fe-8dba-af6d4559a269)
+
+OUTPUT SAAT USER INGIN MELIHAT DATA PRODUK
+![Screenshot 2024-02-24 114003](https://github.com/mhdalfian/Miniproject_01/assets/144761136/5bb6e349-dfab-4468-840a-e105c5e33752)
+
+OUTPUT SAAT USER INGIN MENGUBAH DATA PRODUK
+![Screenshot 2024-02-24 114128](https://github.com/mhdalfian/Miniproject_01/assets/144761136/adbc6c20-0b6c-4e00-b45b-be175cd52d9c)
+
+OUTPUT SAAT USER INGIN MENGHAPUS DATA PRODUK
+![Screenshot 2024-02-24 114156](https://github.com/mhdalfian/Miniproject_01/assets/144761136/5cf9304f-442e-47da-971e-92df9733aba7)
+
+OUTPUT SAAT USER INGIN MENGAKHIRI PROGRAM DENGAN MENGKLIK 5. KELUAR
+![Screenshot 2024-02-24 114222](https://github.com/mhdalfian/Miniproject_01/assets/144761136/06abe88f-dac0-4a4b-9272-8c2431561cbc)
+
+SEKIAN DARI SAYA, TERIMA KASIH.
