@@ -1,1 +1,7 @@
-# Miniproject_01
+![Screenshot 2024-02-24 114214](https://github.com/mhdalfian/Miniproject_01/assets/144761136/d3274cea-7df1-4589-bd9e-1802def2eaf7)
+![Screenshot 2024-02-24 114156](https://github.com/mhdalfian/Miniproject_01/assets/144761136/31abf366-1a4e-454e-8725-fba988097554)
+![Screenshot 2024-02-24 114128](https://github.com/mhdalfian/Miniproject_01/assets/144761136/0ed8451c-df3c-4333-a6de-5f9fbe65a5e4)
+![Screenshot 2024-02-24 114003](https://github.com/mhdalfian/Miniproject_01/assets/144761136/7120b8cd-e6e5-47ad-aa6d-72095821794a)
+![Screenshot 2024-02-24 113944](https://github.com/mhdalfian/Miniproject_01/assets/144761136/3c62e603-5eb6-439d-889e-554746fc1c54)
+![Screenshot 2024-02-24 112718](https://github.com/mhdalfian/Miniproject_01/assets/144761136/ab43e238-fbdb-452c-a361-aea7b7b1e63b)
+![Screenshot 2024-02-24 114222](https://github.com/mhdalfian/Miniproject_01/assets/144761136/3839871f-2954-4510-9ca9-162d9cae7a14)
